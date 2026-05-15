@@ -24,10 +24,10 @@ const Hero = () => {
           className="max-w-4xl mx-auto"
         >
           <motion.span 
-            initial={{ opacity: 0, tracking: '0.2em' }}
-            animate={{ opacity: 1, tracking: '0.5em' }}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
             transition={{ duration: 1.5, delay: 0.2 }}
-            className="text-solaria-gold uppercase text-[9px] md:text-[11px] font-bold mb-8 block"
+            className="text-solaria-gold uppercase text-[9px] md:text-[11px] font-bold mb-8 block tracking-[0.5em]"
           >
             Sofisticação & Luxo Acessível
           </motion.span>

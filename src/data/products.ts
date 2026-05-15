@@ -1,7 +1,6 @@
 import handChain from '../assets/products/hand-chain.png';
 import argolinhaGota from '../assets/products/argolinha-gota.png';
 import braceleteLiso from '../assets/products/bracelete-liso.png';
-import duploPontoLuz from '../assets/products/duplo-ponto-luz.png';
 import pulseiraRiviera from '../assets/products/pulseira-riviera.png';
 import conjuntoMini from '../assets/products/conjunto-mini.png';
 import brincoRedondo from '../assets/products/brinco-redondo.png';
