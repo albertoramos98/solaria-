@@ -3,7 +3,7 @@ import anelCoracao from '../assets/products/anel-coracao.png';
 import argolinhaGota from '../assets/products/argolinha-gota.png';
 import braceleteLiso from '../assets/products/bracelete-liso.png';
 import brincoRedondo from '../assets/products/brinco-redondo.png';
-import colarDuplo from '../assets/products/Colar-duplo.png';
+import colarDuplo from '../assets/products/colar-duplo.png';
 import pulseiraRiviera from '../assets/products/pulseira-riviera.png';
 
 const InstagramFeed = () => {
